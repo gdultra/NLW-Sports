@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://gdultra.github.io/NLW-Sports/)
+Clique para [acessar!](https://gdultra.github.io/NLW-Sports/)
 
 ## Tecnologias
 
